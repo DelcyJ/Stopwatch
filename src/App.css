@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.stopwatch {
+  margin: 20px auto;
+  width: 200px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.time {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+}
